@@ -3,6 +3,15 @@ hr {
   margin-bottom: 20px;
 }
 
+.site-header {
+  border-top: 5px solid #594191;
+}
+
+body {
+  color: white;
+  background: #202020;
+}
+
 /* Post navigation links */
 .post_navi {
   display: flex;
