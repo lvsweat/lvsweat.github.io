@@ -5,11 +5,32 @@ hr {
 
 .site-header {
   border-top: 5px solid #594191;
+  border-bottom: 1px solid #514a62;
 }
 
 body {
   color: white;
   background: #202020;
+}
+
+.site-title, .site-title:visited {
+  color: #594191;
+}
+
+.site-nav .page-link {
+    color: #594191;
+}
+
+.post-meta {
+  color: #665984;
+}
+
+a:visited {
+  color: #594191;
+}
+
+a:hover {
+  color: #74629d;
 }
 
 /* Post navigation links */
