@@ -33,6 +33,11 @@ a:hover {
   color: #74629d;
 }
 
+.hljs {
+  background: #222;
+  color: #808080;
+}
+
 /* Post navigation links */
 .post_navi {
   display: flex;
