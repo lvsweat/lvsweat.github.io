@@ -33,6 +33,11 @@ a:hover {
   color: #74629d;
 }
 
+pre, code {
+  border: 1px solid #514a62;
+  background-color: #20242b;
+}
+
 /* Post navigation links */
 .post_navi {
   display: flex;
