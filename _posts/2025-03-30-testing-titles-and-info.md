@@ -17,3 +17,9 @@ This is a test
 Rust stuff
 
 more Rust stuff.
+
+```rust
+pub fn foobar() -> Result<String, String> {
+  Ok("ret".to_string())
+}
+```
