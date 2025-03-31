@@ -25,6 +25,11 @@ body {
   color: #665984;
 }
 
+pre, code {
+  border: 1px solid #464646;
+  background-color: #2f2f2f;
+}
+
 a:visited {
   color: #594191;
 }
