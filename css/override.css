@@ -25,6 +25,10 @@ body {
   color: #665984;
 }
 
+a {
+  color: #594191;
+}
+
 a:visited {
   color: #594191;
 }
